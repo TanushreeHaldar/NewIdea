@@ -1,0 +1,2 @@
+# NewIdea
+Starting GitHub
